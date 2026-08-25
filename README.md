@@ -5,7 +5,7 @@ algorithms — every algorithm is implemented from scratch as a generator
 function, so the UI renders each comparison, swap, and node visit as it
 actually happens, not as a canned animation.
 
-**[Live demo →](https://algo-visualizer-eddie7ch.vercel.app)**
+**[Live demo →](https://algo-visualizer-mocha.vercel.app)**
 
 ## Why this exists
 
